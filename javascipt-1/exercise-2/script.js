@@ -23,4 +23,3 @@ boxes.forEach(box => {
     }
   });
 });
-
